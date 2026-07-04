@@ -1,0 +1,10 @@
+# Compiled binary
+trading_agent
+
+# Editor files
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
